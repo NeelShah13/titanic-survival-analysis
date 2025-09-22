@@ -58,4 +58,4 @@ This project aligns with my passion for **Data Science, Analytics, and uncoverin
 
 ## ✨ Author
 👤 Neel Shah  
-🔗 [LinkedIn](https://www.linkedin.com/neelshah13) | [GitHub](https://github.com/NeelShah13)
+🔗 [LinkedIn](https://www.linkedin.com/in/neelshah13/) | [GitHub](https://github.com/NeelShah13)
